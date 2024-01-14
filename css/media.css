@@ -1,0 +1,826 @@
+@media screen and (max-width: 1200px){
+    .container{
+    width: 960px;
+    }
+    /* start first screen*/
+    .first_screen{
+        background-position: -250px -100px;
+    }
+    .header{
+        width: 950px;
+    }
+    .text{
+        width: 530px;
+        padding-left: 0;
+    }
+    h1{
+        width: 500px;
+    }
+    .picture{
+        width: 500px;
+        height: 650px; 
+    }
+    .picture img{
+        width: 540px;
+        height: 650px; 
+    }
+    /* end first screen*/
+    /* start second screen*/
+    .services{
+        width: 950px;
+    }
+    .services div{ 
+        width: 300px;
+    }
+    /* end second screen*/
+    /* start third screen*/
+    .about_2{
+        width: 965px;
+    }
+    .about_2 img{
+        width: 540px;
+    }
+    .text_2{
+        width: 425px;
+    }
+    .text_2 h2{
+        width: 420px;
+        font-size: 38px;
+    }
+    .text_2 p{
+        width: 425px;
+        height: 265px;
+    }
+    /* end third screen*/
+    /* start fourth screen*/
+    .doctors{
+        width: 960px;
+    }
+    .doctor1, .doctor2, .doctor3, .doctor4 {
+        width: 230px;
+    }
+    .card{
+        width: 230px;
+        left: 0;
+    }
+    /* end fourth screen*/
+    /* start fifth screen*/
+    .response{
+        width: 960px;
+    }
+    .response_1, .response_2{
+        width: 470px;
+        height: 480px;
+    }
+    .foto_1{
+        width: 100%;
+    }
+    .foto_2{
+        width: 103%;
+        height: 290px;
+    }
+    /* end fifth screen*/
+    /* start sixth screen*/
+    .sixth_screen h2{
+        width: 700px;
+    }
+    .sixth_screen .box{
+        width: 960px;
+    }
+    /* end sixth screen*/
+    /* start footer*/
+    .logo_2{
+        width: 400px;
+    }
+    .logo_2 p{
+        line-height: 170%;
+    }
+    .net{
+        width: 222px;
+    }
+    .menu_2{
+        width: 68px;
+    }
+    .menu_2 a{
+        margin-bottom: 50px;
+    }
+    /* end footer*/
+
+}
+@media screen and (max-width: 992px){
+    .container{
+        width: 720px;
+    }
+    /* start first screen*/
+    .first_screen{
+        background-position: -250px -160px ;
+    }
+    .header{
+        width: 700px;
+        align-items: center;
+    }
+    nav{
+        width: 250px;
+    }
+    .header div a{
+        width: 180px;
+        padding: 10px 60px;
+    }
+    .text{
+        width: 380px;
+        height: 450px;
+        padding-top: 130px;
+    }
+    h1{
+        width: 360px;
+        font-weight: 700;
+        font-size: 45px;
+        line-height: 50px;   
+    }
+    .text p{
+        width: 320px;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 150%;
+    }
+    .picture{
+        width: 360px;
+        height: 540px; 
+    }
+    .picture img{
+        width: 390px;
+        height: 540px; 
+    }
+    /* end first screen*/
+    /* start second screen*/
+    .second_screen h2{
+        width: 600px;
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .services{
+        width: 720px;
+        margin-top: 130px;
+    }
+    .services div{ 
+        width: 230px;
+    }
+    .services img{ 
+        left: 58px;
+    }
+    /* end second screen*/
+    /* start third screen*/
+    .about_2{
+        width: 720px;
+    }
+    .about_2 img{
+        width: 420px;
+    }
+    .text_2{
+        width: 300px;
+        margin-top: 75px;
+    }
+    .text_2 h2{
+        width: 295px;
+        font-size: 36px;
+        line-height: 1.2;
+    }
+    .text_2 p{
+        width: 300px;
+        height: 275px;
+        font-size: 16px;
+        line-height: 1.55;
+        letter-spacing: 0.02em;
+    }
+    .text_2 div{
+        width: 200px;
+        height: 50px;
+        padding: 10px 30px;
+    }
+    /* end third screen*/
+    /* start fourth screen*/
+    .fourth_screen h2{
+        width: 550px;
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .doctors{
+        width: 720px;
+    }
+    .doctor1, .doctor2, .doctor3, .doctor4 {
+        width: 170px;
+        background-position: -50px;
+    }
+    .card{
+        width: 170px;
+        padding-left: 5px;
+    }
+    .icons{
+        width: 70px;
+        height: 10px; 
+    }
+    .card h3{
+        width: 168px;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 22px;
+    }
+    /* end fourth screen*/
+    /* start fifth screen*/
+    .fifth_screen h2{
+        width: 580px;
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .response{
+        width: 720px;
+    }
+    .response_1, .response_2{
+        width: 350px;
+        height: 410px;
+    }
+    .foto_2{
+        height: 215px;
+    }
+    .response p{
+        width: 95%;
+        height: 80px;
+        font-size: 17px;
+        line-height: 1.3;
+    }
+    /* end fifth screen*/
+    /* start sixth screen*/
+    .sixth_screen h2{
+        width: 450px;
+        font-size: 34px;
+        line-height: 38px;
+    }
+    .sixth_screen .box{
+        width: 720px;
+    }
+    .box p, .btn a{
+        font-size: 17px;
+    }
+    .btn{
+        width: 200px;
+        height: 48px;
+        padding: 13px 47px;
+    }
+    /* end sixth screen*/
+    /* start footer*/
+    .logo_2{
+        width: 300px;
+    }
+    .logo_2 p{
+        font-size: 16px;
+        line-height: 1.4;
+        margin: 20px 0 30px;
+    }
+    .net{
+        width: 180px;
+    }
+    .net img{
+        width: 26px;
+    }
+    .menu_2{
+        width: 60px;
+    } 
+    .menu_2 h3{
+        font-size: 18px;
+    }
+    .menu_2 a{
+        font-size: 16px;    
+        margin-bottom: 40px;
+    }
+    .form{
+        width: 320px;
+    }
+    .form h3{
+        font-size: 19px;
+    }
+    .form input:first-of-type{
+        width: 320px;
+        height: 70px;
+        font-size: 18px;
+    }
+    .form input:last-of-type{
+        width: 200px;
+        height: 55px;
+        padding: 14px 35px;
+        font-size: 16px;
+        margin-top: 25px;
+    }
+    /* end footer*/
+}
+   
+@media screen and (max-width: 768px){
+    .container{
+        width: 540px;
+        letter-spacing: 0.02em;
+    }
+    /* start first screen*/
+    .header{
+        width: 520px;
+        height: 40px;
+    }
+    .logo h3, .logo span{
+        font-size: 18px;
+    }
+    nav{
+        width: 200px;
+    }
+    nav a{
+        font-size: 16px;
+    }
+    .header div a{
+        width: 130px;
+        font-size: 16px;
+        padding: 6px 45px;
+    }
+    .text{
+        width: 250px;
+        height: 420px;
+        padding-top: 85px;
+    }
+    h1{
+        width: 247px;
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 35px;   
+    }
+    .text p{
+        width: 247px;
+        font-weight: 500;
+        font-size: 17px;
+        line-height: 130%;
+        margin-top: 10px;
+    }
+    .text div a{
+        width: 180px;
+        height: 50px;
+        font-size: 16px;
+        padding: 13px 35px;
+    }
+    .picture{
+        width: 280px;
+        height: 380px; 
+        margin-top: 15px;
+    }
+    .picture img{
+        width: 300px;
+        height: 380px; 
+    }
+    /* end first screen*/
+    /* start second screen*/
+    .second_screen{
+        padding: 50px 0;
+    }
+    .second_screen h3{
+        font-weight: 500;
+        font-size: 16px;
+    }
+    .second_screen h2{
+        width: 400px;
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .services{
+        width: 540px;
+    }
+    .services div{ 
+        width: 170px;        
+        height: 200px;
+    }
+    .services img{
+        width: 100px;
+        height: 100px;
+        left: 37px;
+    }
+    .services h3{
+        width: 100px;
+        font-size: 16px;
+    }
+    .services p{
+        width: 165px;
+        font-size: 17px;
+        line-height: 1.4;
+    }
+    /* end second screen*/
+    /* start third screen*/
+    .about_2{
+        width: 540px;
+    }
+    .about_2 img{
+        width: 340px;
+    }
+    .text_2{
+        width: 200px;
+    }
+    .text_2 h4{
+        font-size: 18px;  
+    }
+    .text_2 h2{
+        width: 195px;
+        font-size: 30px;
+    }
+    .text_2 p{
+        width: 195px;
+        height: 300px;
+        font-size: 15px;
+        line-height: 1.3;
+        margin-top: -5px;
+    }
+    .text_2 div{
+        width: 180px;
+        padding: 10px 20px;
+    }
+    /* end third screen*/
+    /* start fourth screen*/
+    .fourth_screen{
+        padding: 50px 0;
+    }
+    .fourth_screen h4{
+        font-size: 18px;
+    }
+    .fourth_screen h2{
+        width: 500px;
+        font-size: 30px;
+        line-height: 34px;
+        margin-bottom: 50px;
+    }
+    .doctors{
+        width: 540px;
+        height: 320px;
+    }
+    .doctor1, .doctor2, .doctor3, .doctor4 {
+        width: 130px;
+        height: 250px;
+        background-position: -70px ;
+    }
+    .card{
+        width: 131px;
+        height: 110px;
+        top: 200px;
+    }
+    .card h3{
+        width: 100%;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .card p{
+        font-size: 13px;
+    }
+    /* end fourth screen*/
+    /* start fifth screen*/
+    .fifth_screen{
+        padding: 50px 0;
+    }
+    .fifth_screen h4{
+        font-size: 18px;
+    }
+    .fifth_screen h2{
+        width: 500px;
+        font-size: 30px;
+        line-height: 34px;
+        margin: 5px 0 20px;
+    }
+    .response{
+        width: 540px;
+        height: auto;
+    }
+    .response_1, .response_2{
+        width: 260px;
+        height: 330px;
+    }
+    .foto_2{
+        height: 48%;
+    }
+    .response h3{
+        font-size: 18px;
+    }
+    .response p{
+        height: 70px;
+        font-size: 16px;
+        line-height: 1.2;
+    }
+    .star{
+        width: 100px;
+        height: 20px;
+    }
+    /* end fifth_ screen*/
+    /* start sixth screen*/
+    .sixth_screen h2{
+        width: 350px;
+        font-size: 26px;
+        line-height: 28px;
+    }
+    .sixth_screen .box{
+        width: 540px;
+    }
+    .box p, .btn a{
+        font-size: 15px;
+    }
+    .btn{
+        width: 140px;
+        height: 40px;
+        padding: 10px 28px;
+    }
+    /* end sixth screen*/
+    /* start footer*/
+    .footer{
+        padding: 50px 0;
+    }
+    .logo_2{
+        width: 240px;
+    }
+    .logo_2 h3{
+        font-size: 17px;
+    }
+    .logo_2 p{
+        font-size: 13px;
+        line-height: 1.2;
+        margin: 7px 0 15px;
+    }
+    .net{
+        width: 120px;
+    }
+    .net img{
+        width: 15px;
+    }
+    .menu_2{
+        width: 50px;
+    } 
+    .menu_2 h3{
+        font-size: 15px;
+        margin-bottom: -15px;
+    }
+    .menu_2 a{
+        width: 50px;
+        font-size: 13px;   
+        margin-bottom: 28px;
+    }
+    .form{
+        width: 240px;
+        margin-left: 15px;
+    }
+    .form h3{
+        font-size: 15px;
+        margin-bottom: -25px;
+    }
+    .form input:first-of-type{
+        width: 240px;
+        height: 50px;
+        font-size: 15px;
+    }
+    .form input:last-of-type{
+        width: 150px;
+        height: 40px;
+        padding: 10px 30px;
+        font-size: 14px;
+    }
+    /* end footer*/
+}
+@media screen and (max-width: 576px){
+    .container{
+        width: 100%;
+        padding: 0 15px;
+    }
+    /* start first screen*/
+    .first_screen{
+        background-position: -390px -180px ;
+    }
+    .header{
+        width: 500px;
+        margin: 0 auto;
+        padding-top: 15px;
+    }
+    .logo h3, .logo span{
+        font-size: 17px;
+    }
+    nav{
+        width: 35%;
+    }
+    nav a{
+        font-size: 14px;
+    }
+    .header div a{
+        width: 130px;
+        font-size: 14px;
+        padding: 4px 42px;
+    }
+    .text{
+        width: 45%;
+        padding: 70px 0 50px 15px;
+    }
+    h1{
+        width: 100%;
+        font-size: 26px;
+        line-height: 28px;
+    }
+    .text p{
+        width: 100%;
+        font-size: 15px;
+    }
+    .text div a{
+        width: 150px;
+        height: 45px;
+        font-size: 15px;
+        padding: 11px 27px;
+    }
+    .picture{
+        width: 50%;
+        height: 310px; 
+        margin-top: 25px;
+    }
+    .picture img{
+        width: 100%;
+        height: 310px; 
+    }
+    /* end first screen*/
+    /* start second screen*/
+    .second_screen h2{
+        width: 300px;
+        font-size: 26px;
+        line-height: 28px;
+        margin: 10px auto;
+    }
+    .services{
+        width: 95%;
+        margin-top: 50px;
+    }
+    .services div{ 
+        width: 30%;        
+        height: 100%;
+    }
+    .services img{
+        width: 60px;
+        height: 60px;
+        left: 35%;
+        top: -35px;    
+    }
+    .services h3{
+        width: 50%;
+        height: 20px;
+        font-size: 16px;
+        margin-top: -20px;
+    }
+    .services p{
+        width: 90%;
+        font-size: 15px;
+        line-height: 1.2;
+        padding-bottom: 25px;
+    }
+    /* end second screen*/
+    /* start third screen*/
+    .about_2{
+        width: 100%;
+    }
+    .about_2 img{
+        width: 100%;
+    }
+    .text_2{
+        width: 50%;
+    }
+    .text_2 h4{
+        font-size: 16px;  
+    }
+    .text_2 h2{
+        width: 95%;
+        font-size: 28px;
+    }
+    .text_2 p{
+        width: 97%;
+        height: auto;
+        font-size: 14px;
+        line-height: 1.2;
+    }
+    .text_2 div{
+        width: 80%;
+        height: auto;
+    }
+    .text_2 a{
+        font-size: 14px;
+    }
+    /* end third screen*/
+    /* start fourth screen*/
+    .fourth_screen h4{
+        font-size: 16px;
+    }
+    .fourth_screen h2{
+        width: 70%;
+        font-size: 26px;
+        line-height: 28px;
+    }
+    .doctors{
+        width: 100%;
+    }
+    .doctor1, .doctor2, .doctor3, .doctor4 {
+        width: 24%;
+    }
+    .card{
+        width: 100%;
+        height: auto;
+    }
+    .icons{
+        width: 50%;
+    }
+    .card h3{
+        height: auto;
+        font-size: 13px;
+    }
+    .card p{
+        font-size: 12px;
+    }
+    /* end fourth screen*/
+    /* start fifth screen*/
+    .fifth_screen{
+        padding: 30px 0 50px;
+    }
+    .fifth_screen h4{
+        font-size: 17px;
+    }
+    .fifth_screen h2{
+        width: 80%;
+        font-size: 26px;
+        line-height: 28px;
+        margin: 3px 0 5px;
+    }
+    .response{
+        width: 100%;        
+        height: auto;
+    }
+    .response_1, .response_2{
+        width: 49%;
+    }
+    .foto_2{
+        height: 50%;
+    }
+    .response h3{
+        font-size: 16px;
+        margin: 10px 0 0 10px;
+    }
+    .response p{
+        height: 60px;
+        font-size: 14px;
+        margin-left: 10px;
+    }
+    .star{
+        width: 30%;
+        height: 5%;
+    }
+    /* end fifth_ screen*/
+    /* start sixth screen*/
+    .sixth_screen h2{
+        width: 60%;
+        font-size: 22px;
+        line-height: 26px;
+    }
+    .sixth_screen .box{
+        width: 100%;
+    }
+    .box p, .btn a{
+        font-size: 14px;
+    }
+    .box p{
+        top: 18px;
+    }
+    .btn{
+        width: 25%;
+        height: 35px;
+        padding: 7px 27px;
+    }
+    /* end sixth screen*/
+    /* start footer*/
+    .logo_2{
+        width: 40%;
+    }
+    .logo_2 h3{
+        font-size: 15px;
+    }
+    .net{
+        width: 55%;
+    }
+    .menu_2{
+        width: 10%;
+    } 
+    .menu_2 h3{
+        font-size: 14px;
+    }
+    .menu_2 a{
+        width: 100%;
+    }
+    .form{
+        width: 45%;
+        margin-left: 8px;
+    }
+    .form input:first-of-type{
+        width: 90%;
+        font-size: 14px;
+    }
+    .form input:last-of-type{
+        width: 60%;
+        font-size: 13px;
+    }
+    /* end footer*/
+}
